@@ -7,5 +7,6 @@ public class Main {
         mercedes.accelerate(20);
         mercedes.accelerate(-60);
         System.out.println(mercedes.getCurrentSpeed());
+        System.out.println(mercedes.getName());
     }
 }
